@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+   list-style-type: upper-roman;
+   margin-left: 50%;
+   list-style-position: outside;
+   }
+
+p {
+    text-indent: 10%;
+    padding-left: 20%;
+    padding-top: 10%;
+}
