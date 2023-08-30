@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0; 
+    background-image: url("main_img.png");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+
+.login_page{
+    background-color: wheat;
+    width: 450px;
+    height: 450px;
+    border: 10px solid black;
+    border-radius: 5%;
+    margin-left: 40%;
+    margin-top: 20%;
+    background-attachment: fixed;
+}
+
+.page{
+    font-size: larger;
+    font-weight: 300px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.input1{
+    width:200px;
+    height: 20px;
+    margin-left: 30%;
+    border-style:dotted;
+}
+
+.logo{
+    width: 20%;
+    border-radius: 50%;
+    margin-left: 40%;
+}
+
+.bar{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-variant: small-caps; */
+}
+
+/* .btn{
+    width: 30%;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 170px;
+    background-color: chartreuse;
+    border-radius: 5px;
+} */
+
+#jack{
+    color:black;
+    width: 30%;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 170px;
+    background-color: brown;
+    border-radius: 5px;
+}
